@@ -5,8 +5,6 @@
 版本：**1.5.0** · Python 3.10+ · GTK 4 / libadwaita · MIT License  
 作者：**Bruce** · 个人主页：[bruce-fudan.github.io](https://bruce-fudan.github.io)
 
-> 本项目是一个纯源码发布仓库，不包含任何用户配置、日志、密钥、构建缓存或个人数据。截图使用示例邮箱和本地模拟服务。
-
 ![运行状态](assets/status.png)
 
 *运行状态：关键词匹配、确认回复、AI 回复统计和活动日志*
